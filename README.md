@@ -2,5 +2,6 @@
 
 - 🔭 Atualmente trabalho como Full-stack developer.
 - 🌱 Aprendendo sempre!
-- 📫 Como chegar até mim: julio.leaojc5@gmail.com
+- 📫 Como chegar até mim (e-mail): julio.leaojc5@gmail.com
 - 😄 Apelido: Julhão
+- 🌹  Linguagens que domino: PHP, C#, JS, SQL. 
