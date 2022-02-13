@@ -22,5 +22,9 @@
 </div>
   
   <div>
+    
+    
     ![Snake animation](https://github.com/julioleao2018/julioleao2018/blob/output/github-contribution-grid-snake.svg)
+    
+    
   </div>
