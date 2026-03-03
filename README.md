@@ -16,12 +16,12 @@ explorando produto, monetização e crescimento orgânico.
 
 ## 🧠 O que eu faço
 
--   🔹 Desenvolvimento de **microsserviços escaláveis**
--   🔹 Integrações com **Kafka, APIs REST e mensageria**
--   🔹 Arquitetura baseada em **Docker & Kubernetes**
--   🔹 Observabilidade com métricas e monitoramento
--   🔹 CI/CD e automação de pipelines
--   🔹 Desenvolvimento de produtos SaaS do zero ao deploy
+-   Desenvolvimento de **microsserviços escaláveis**
+-   Integrações com **Kafka, APIs REST e mensageria**
+-   Arquitetura baseada em **Docker & Kubernetes**
+-   Observabilidade com métricas e monitoramento
+-   CI/CD e automação de pipelines
+-   Desenvolvimento de produtos SaaS do zero ao deploy
 
 ------------------------------------------------------------------------
 
@@ -80,17 +80,6 @@ explorando produto, monetização e crescimento orgânico.
 📧 **Email:** julio.leaojc5@gmail.com\
 💼 Sempre aberto a conversar sobre arquitetura, sistemas distribuídos e
 novos projetos.
-
-------------------------------------------------------------------------
-
-## 📊 GitHub Stats
-
-``` md
-<!-- Substitua pelo seu usuário se necessário -->
-https://github-readme-stats.vercel.app/api?username=julioleao2018&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=julioleao2018&layout=compact&langs_count=7&theme=dracula
-```
 
 ------------------------------------------------------------------------
 
