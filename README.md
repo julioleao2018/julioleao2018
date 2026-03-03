@@ -1,42 +1,98 @@
-# 👋 Olá, eu sou o Julio Leão!
+# 👋 Olá, eu sou Julio César Leão
 
-Bem-vindo ao meu perfil! Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e sempre em busca de aprender e evoluir. 🚀  
+🚀 **Software Engineer \| Microsserviços \| Arquitetura Distribuída \|
+Cloud \| SaaS Builder**
 
----
+Sou engenheiro de software apaixonado por construir sistemas escaláveis,
+resilientes e bem arquitetados.\
+Atuo com **microsserviços, integrações corporativas e arquitetura
+distribuída**, sempre focando em performance, observabilidade e boas
+práticas.
 
-## 🔥 Sobre mim
-- 💻 Atualmente atuo como **Full-Stack Developer**
-- 📚 **Aprendendo continuamente:** explorando boas práticas, arquitetura de software e novas tecnologias
-- 📫 **Contato:** [julio.leaojc5@gmail.com](mailto:julio.leaojc5@gmail.com)
-- 🏷️ **Apelido:** *Julhão*
+Além do mundo corporativo, também desenvolvo **projetos SaaS próprios**,
+explorando produto, monetização e crescimento orgânico.
 
----
+------------------------------------------------------------------------
 
-## 🛠️ Tech Stack
-**Linguagens:** Python, Java, PHP, C#, JavaScript, SQL  
-**Frameworks:** React, FastAPI, Spring, .NET, Django  
-**Outros:** Docker, Git, REST APIs, Agile/Scrum  
+## 🧠 O que eu faço
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Julio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Julio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Julio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+-   🔹 Desenvolvimento de **microsserviços escaláveis**
+-   🔹 Integrações com **Kafka, APIs REST e mensageria**
+-   🔹 Arquitetura baseada em **Docker & Kubernetes**
+-   🔹 Observabilidade com métricas e monitoramento
+-   🔹 CI/CD e automação de pipelines
+-   🔹 Desenvolvimento de produtos SaaS do zero ao deploy
 
----
+------------------------------------------------------------------------
+
+## 🛠️ Stack Principal
+
+### Backend
+
+-   **Java (Spring Boot)**
+-   **Python (FastAPI)**
+-   **PHP (Laravel)**
+-   **C# (.NET)**
+
+### Frontend
+
+-   **React / Next.js**
+-   JavaScript / TypeScript
+
+### Cloud & DevOps
+
+-   Docker\
+-   Kubernetes\
+-   CI/CD Pipelines\
+-   GitHub Actions / Bitbucket Pipelines\
+-   Linux & VPS Deploy\
+-   Nginx
+
+### Banco de Dados
+
+-   PostgreSQL\
+-   Oracle\
+-   SQL Server
+
+------------------------------------------------------------------------
+
+## 🎯 Foco Técnico Atual
+
+-   🎓 MBA em Engenharia de Software\
+-   📈 Arquitetura de microsserviços resilientes\
+-   📡 Observabilidade e monitoramento\
+-   ⚙️ Performance e escalabilidade
+
+------------------------------------------------------------------------
+
+## 🚀 Projetos & Interesses
+
+-   Plataformas SaaS multi-tenant\
+-   Sistemas de integração corporativa\
+-   Plataformas web de alto tráfego\
+-   Automação e produtividade com IA\
+-   Games e experimentação técnica
+
+------------------------------------------------------------------------
+
+## 📫 Contato
+
+📧 **Email:** julio.leaojc5@gmail.com\
+💼 Sempre aberto a conversar sobre arquitetura, sistemas distribuídos e
+novos projetos.
+
+------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/julioleao2018">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julioleao2018&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioleao2018&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
 
----
+``` md
+<!-- Substitua pelo seu usuário se necessário -->
+https://github-readme-stats.vercel.app/api?username=julioleao2018&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
 
-![Snake animation](https://github.com/julioleao2018/julioleao2018/blob/output/github-contribution-grid-snake.svg)
+https://github-readme-stats.vercel.app/api/top-langs/?username=julioleao2018&layout=compact&langs_count=7&theme=dracula
+```
+
+------------------------------------------------------------------------
+
+![Snake
+animation](https://github.com/julioleao2018/julioleao2018/blob/output/github-contribution-grid-snake.svg)
